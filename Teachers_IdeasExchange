@@ -1,0 +1,369 @@
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">                          
+<!--<![endif]-->
+					<head>
+				    <meta charset="UTF-8" />
+				    <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+				    <title>Forum: Ideas Exchange | Case Lab for Educators</title>
+				    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+				    <link rel="profile" href="http://gmpg.org/xfn/11" />
+				    <link rel="pingback" href="http://brittanynwashington.com/CASELAB/educators/xmlrpc.php" />
+				   
+				   <!-- Icons font support for IE6-7  -->
+				    <!--[if lt IE 8]>
+				      <script src="http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/css/fonts/lte-ie7.js"></script>
+				    <![endif]-->
+				    <style type="text/css" id="customizr-inline-fonts">@font-face{font-family:genericons;src:url('http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/css/fonts/fonts/genericons-regular-webfont.eot');src:url('http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/css/fonts/fonts/genericons-regular-webfont.eot?#iefix') format('embedded-opentype'),url('http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/css/fonts/fonts/genericons-regular-webfont.woff') format('woff'),url('http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/css/fonts/fonts/genericons-regular-webfont.ttf') format('truetype'),url('http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/css/fonts/fonts/genericons-regular-webfont.svg#genericonsregular') format('svg')}@font-face{font-family:entypo;src:url('http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/css/fonts/fonts/entypo.eot);src:url(http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/css/fonts/fonts/entypo.eot?#iefix') format('embedded-opentype'),url('http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/css/fonts/fonts/entypo.woff') format('woff'),url('http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/css/fonts/fonts/entypo.ttf') format('truetype'),url('http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/css/fonts/fonts/entypo.svg#genericonsregular') format('svg')}</style><link rel="alternate" type="application/rss+xml" title="Case Lab for Educators &raquo; Feed" href="http://brittanynwashington.com/CASELAB/educators/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Case Lab for Educators &raquo; Comments Feed" href="http://brittanynwashington.com/CASELAB/educators/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Case Lab for Educators &raquo; Ideas Exchange Comments Feed" href="http://brittanynwashington.com/CASELAB/educators/forums/forum/ideas-exchange-2/feed/" />
+<link rel='stylesheet' id='gallery-bank.css-css'  href='http://brittanynwashington.com/CASELAB/educators/wp-content/plugins/gallery-bank/assets/css/gallery-bank.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto.css-css'  href='http://brittanynwashington.com/CASELAB/educators/wp-content/plugins/gallery-bank/assets/css/prettyPhoto.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.bxslider-css'  href='//brittanynwashington.com/CASELAB/educators/wp-content/plugins/testimonials-widget/includes/libraries/bxslider-4/jquery.bxslider.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='Testimonials_Widget-css'  href='//brittanynwashington.com/CASELAB/educators/wp-content/plugins/testimonials-widget/assets/css/testimonials-widget.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-css'  href='http://brittanynwashington.com/CASELAB/educators/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.4-5380' type='text/css' media='screen' />
+<link rel='stylesheet' id='cntctfrm_stylesheet-css'  href='http://brittanynwashington.com/CASELAB/educators/wp-content/plugins/contact-form-plugin/css/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='events-manager-css'  href='http://brittanynwashington.com/CASELAB/educators/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.5401' type='text/css' media='all' />
+<link rel='stylesheet' id='customizr-skin-css'  href='http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/css/blue.min.css?ver=3.2.8' type='text/css' media='all' />
+<style type='text/css'>
+
+.sticky-enabled .tc-shrink-on .site-logo img {
+						height:30px!important;width:auto!important
+					}
+
+					.sticky-enabled .tc-shrink-on .brand .site-title {
+						font-size:0.6em;opacity:0.8;line-height:1.2em
+					}
+
+.tc-rectangular-thumb {
+            max-height: 250px;
+            height :250px
+          }
+
+          .single .tc-rectangular-thumb {
+            max-height: 250px;
+            height :250px
+          }
+
+
+</style>
+<link rel='stylesheet' id='customizr-style-css'  href='http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/style.css?ver=3.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='fancyboxcss-css'  href='http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/js/fancybox/jquery.fancybox-1.3.4.min.css?ver=4.0.1' type='text/css' media='all' />
+        <script type="text/javascript">
+            var eppathtoscripts = "http://brittanynwashington.com/CASELAB/educators/wp-content/plugins/youtube-embed-plus/scripts/";
+            var epresponsiveselector = ["iframe.__youtube_prefs_widget__"];
+            var epdovol = true; //false;
+        </script>
+        <script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-content/plugins/gallery-bank/assets/js/jquery.masonry.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-content/plugins/gallery-bank/assets/js/isotope.pkgd.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-content/plugins/gallery-bank/assets/js/imgLiquid.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-content/plugins/gallery-bank/assets/js/jquery.prettyPhoto.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-includes/js/jquery/ui/jquery.ui.sortable.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-includes/js/jquery/ui/jquery.ui.menu.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-includes/js/jquery/ui/jquery.ui.autocomplete.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-includes/js/jquery/ui/jquery.ui.button.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js?ver=1.10.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"http:\/\/brittanynwashington.com\/CASELAB\/educators\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/brittanynwashington.com\/CASELAB\/educators\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"dd\/mm\/yy","ui_css":"http:\/\/brittanynwashington.com\/CASELAB\/educators\/wp-content\/plugins\/events-manager\/includes\/css\/ui-lightness.css","show24hours":"","is_ssl":"","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"http:\/\/brittanynwashington.com\/CASELAB\/educators\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.5401'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var TCParams = {"FancyBoxState":"1","FancyBoxAutoscale":"1","SliderName":"","SliderDelay":"","SliderHover":"1","SmoothScroll":"linear","ReorderBlocks":"1","CenterSlides":"1","HasComments":"","LeftSidebarClass":".span3.left.tc-sidebar","RightSidebarClass":".span3.right.tc-sidebar","LoadModernizr":"1","stickyCustomOffset":"0","stickyHeader":"1","dropdowntoViewport":"1","timerOnScrollAllBrowsers":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/js/tc-scripts.min.js?ver=3.2.8'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=4.0.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://brittanynwashington.com/CASELAB/educators/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://brittanynwashington.com/CASELAB/educators/wp-includes/wlwmanifest.xml" /> 
+<link rel='next' title='Ideas Exchange' href='http://brittanynwashington.com/CASELAB/educators/forums/forum/ideas-exchange-2/' />
+<meta name="generator" content="WordPress 4.0.1" />
+<link rel='canonical' href='http://brittanynwashington.com/CASELAB/educators/forums/forum/ideas-exchange-2/' />
+<link rel='shortlink' href='http://brittanynwashington.com/CASELAB/educators/?p=16' />
+
+
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+				    <!--Icons size hack for IE8 and less -->
+				    <!--[if lt IE 9]>
+				      <link href="http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/css/fonts/ie8-hacks.css" rel="stylesheet" type="text/css"/>
+				    <![endif]-->
+				</head>
+				
+	<body class="forum bbpress single single-forum postid-16 tc-fade-hover-links tc-sticky-header tc-transparent-on-scroll" itemscope itemtype="http://schema.org/WebPage">
+		
+		
+	   	<header class="tc-header clearfix row-fluid tc-tagline-off tc-title-logo-on tc-shrink-on tc-menu-on logo-left" role="banner">
+				        <div class="brand span3 pull-left ">
+
+	        	<h1><a class="site-title" href="http://brittanynwashington.com/CASELAB/educators/" title="Case Lab for Educators | Just another My blog Sites site">Case Lab for Educators</a></h1>
+	        </div> <!-- brand span3 pull-left -->
+	                  	<div class="navbar-wrapper clearfix span9 tc-submenu-fade tc-submenu-move tc-open-on-hover left">
+            	<div class="navbar resp">
+              		<div class="navbar-inner" role="navigation">
+                		<div class="row-fluid">
+                  		<div class="social-block span5" ><a class="social-icon icon-feed" href="http://brittanynwashington.com/CASELAB/educators/feed/rss/" title="Subscribe to my rss feed"  ></a></div><button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><div class="nav-collapse collapse tc-hover-menu-wrapper"><div class="menu-top-menu-container"><ul id="menu-top-menu-2" class="nav tc-hover-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://brittanynwashington.com/CASELAB/">Main Page</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-12"><a href="http://brittanynwashington.com/CASELAB/educators/">Teachers Home</a></li>
+</ul></div></div>              			</div>
+              		</div><!-- /.navbar-inner -->
+            	</div><!-- /.navbar resp -->
+          	</div><!-- /.navbar-wrapper -->
+        			</header>
+		<div id="tc-reset-margin-top" class="container-fluid" style="margin-top:103px"></div><div id="main-wrapper" class="container">
+
+    <div class="tc-hot-crumble container" role="navigation"><div class="row"><div class="span12"><div class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><span class="trail-begin"><a href="http://brittanynwashington.com/CASELAB/educators" title="Case Lab for Educators" rel="home" class="trail-begin">Home</a></span> <span class="sep">&raquo;</span> <a href="http://brittanynwashington.com/CASELAB/educators/forums/">Forums</a> <span class="sep">&raquo;</span> <span class="trail-end">Ideas Exchange</span></div></div></div></div>    
+    <div class="container" role="main">
+        <div class="row column-content-wrapper">
+
+                     
+        <div class="span3 left tc-sidebar no-widget-icons">
+           <div id="left" class="widget-area" role="complementary">
+                                                              </div><!-- #left or #right-->
+        </div><!--.tc-sidebar -->
+
+                        
+                <div id="content" class="span9 article-container">
+                    
+                    
+                        
+                                                                                    
+                                                                    <article id="post-16" class="post-16 forum type-forum status-publish hentry row-fluid">
+                                                <header class="entry-header">
+          <h1 class="entry-title ">Ideas Exchange</h1>            <div class="entry-meta">
+                 This entry was posted on <a href="http://brittanynwashington.com/CASELAB/educators/2014/12/13/" title="" rel="bookmark"><time class="entry-date updated" datetime=""></time></a> <span class="by-author">by <span class="author vcard"><a class="url fn n" href="http://brittanynwashington.com/CASELAB/educators/author/admin/" title="View all posts by admin" rel="author">admin</a></span></span>             </div><!-- .entry-meta -->
+            <hr class="featurette-divider __before_content">        </header>
+            
+
+          <section class="entry-content ">
+              
+<div id="bbpress-forums">
+
+	<div class="bbp-breadcrumb"><p><a href="http://brittanynwashington.com/CASELAB/educators/" class="bbp-breadcrumb-home">Home</a> <span class="bbp-breadcrumb-sep">&rsaquo;</span> <a href="http://brittanynwashington.com/CASELAB/educators/forums/" class="bbp-breadcrumb-root">Forums</a> <span class="bbp-breadcrumb-sep">&rsaquo;</span> <span class="bbp-breadcrumb-current">Ideas Exchange</span></p></div>
+	
+	
+	
+		<div class="bbp-template-notice info"><p class="bbp-forum-description">This forum contains 2 topics and 3 replies, and was last updated by <a href="http://brittanynwashington.com/CASELAB/educators/forums/user/ekwiatkowski/" title="View ekwiatkowski&#039;s profile" class="bbp-author-avatar" rel="nofollow"><img alt='' src='http://0.gravatar.com/avatar/01cd846483fb12f4a6df29ba778badf6?s=14&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D14&amp;r=G' class='avatar avatar-14 photo' height='14' width='14' /></a>&nbsp;<a href="http://brittanynwashington.com/CASELAB/educators/forums/user/ekwiatkowski/" title="View ekwiatkowski&#039;s profile" class="bbp-author-name" rel="nofollow">ekwiatkowski</a> <a href="http://brittanynwashington.com/CASELAB/educators/forums/topic/workshop-focuses/#post-57" title="Reply To: Workshop Focuses">2 weeks, 6 days ago</a>.</p></div>
+		
+		
+			
+
+<div class="bbp-pagination">
+	<div class="bbp-pagination-count">
+
+		Viewing 2 topics - 1 through 2 (of 2 total)
+	</div>
+
+	<div class="bbp-pagination-links">
+
+		
+	</div>
+</div>
+
+
+			
+
+<ul id="bbp-forum-16" class="bbp-topics">
+
+	<li class="bbp-header">
+
+		<ul class="forum-titles">
+			<li class="bbp-topic-title">Topic</li>
+			<li class="bbp-topic-voice-count">Voices</li>
+			<li class="bbp-topic-reply-count">Posts</li>
+			<li class="bbp-topic-freshness">Freshness</li>
+		</ul>
+
+	</li>
+
+	<li class="bbp-body">
+
+		
+			
+<ul id="bbp-topic-54" class="post-54 topic type-topic status-publish hentry odd bbp-parent-forum-16 user-id-1">
+
+	<li class="bbp-topic-title">
+
+		
+		
+		<a class="bbp-topic-permalink" href="http://brittanynwashington.com/CASELAB/educators/forums/topic/workshop-focuses/">Workshop Focuses</a>
+
+		
+		
+		
+		<p class="bbp-topic-meta">
+
+			
+			<span class="bbp-topic-started-by">Started by: <a href="http://brittanynwashington.com/CASELAB/educators/forums/user/admin/" title="View admin&#039;s profile" class="bbp-author-avatar" rel="nofollow"><img alt='' src='http://0.gravatar.com/avatar/4daf9b95b5f23d0aaa3315e0b06253dd?s=14&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D14&amp;r=G' class='avatar avatar-14 photo' height='14' width='14' /></a>&nbsp;<a href="http://brittanynwashington.com/CASELAB/educators/forums/user/admin/" title="View admin&#039;s profile" class="bbp-author-name" rel="nofollow">admin</a></span>
+
+			
+			
+		</p>
+
+		
+		
+	</li>
+
+	<li class="bbp-topic-voice-count">2</li>
+
+	<li class="bbp-topic-reply-count">4</li>
+
+	<li class="bbp-topic-freshness">
+
+		
+		<a href="http://brittanynwashington.com/CASELAB/educators/forums/topic/workshop-focuses/#post-57" title="Reply To: Workshop Focuses">2 weeks, 6 days ago</a>
+		
+		<p class="bbp-topic-meta">
+
+			
+			<span class="bbp-topic-freshness-author"><a href="http://brittanynwashington.com/CASELAB/educators/forums/user/ekwiatkowski/" title="View ekwiatkowski&#039;s profile" class="bbp-author-avatar" rel="nofollow"><img alt='' src='http://0.gravatar.com/avatar/01cd846483fb12f4a6df29ba778badf6?s=14&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D14&amp;r=G' class='avatar avatar-14 photo' height='14' width='14' /></a>&nbsp;<a href="http://brittanynwashington.com/CASELAB/educators/forums/user/ekwiatkowski/" title="View ekwiatkowski&#039;s profile" class="bbp-author-name" rel="nofollow">ekwiatkowski</a></span>
+
+			
+		</p>
+	</li>
+
+</ul><!-- #bbp-topic-54 -->
+
+		
+			
+<ul id="bbp-topic-26" class="post-26 topic type-topic status-publish hentry even bbp-parent-forum-16 user-id-1">
+
+	<li class="bbp-topic-title">
+
+		
+		
+		<a class="bbp-topic-permalink" href="http://brittanynwashington.com/CASELAB/educators/forums/topic/activities/">Activities</a>
+
+		
+		
+		
+		<p class="bbp-topic-meta">
+
+			
+			<span class="bbp-topic-started-by">Started by: <a href="http://brittanynwashington.com/CASELAB/educators/forums/user/admin/" title="View admin&#039;s profile" class="bbp-author-avatar" rel="nofollow"><img alt='' src='http://0.gravatar.com/avatar/4daf9b95b5f23d0aaa3315e0b06253dd?s=14&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D14&amp;r=G' class='avatar avatar-14 photo' height='14' width='14' /></a>&nbsp;<a href="http://brittanynwashington.com/CASELAB/educators/forums/user/admin/" title="View admin&#039;s profile" class="bbp-author-name" rel="nofollow">admin</a></span>
+
+			
+			
+		</p>
+
+		
+		
+	</li>
+
+	<li class="bbp-topic-voice-count">1</li>
+
+	<li class="bbp-topic-reply-count">1</li>
+
+	<li class="bbp-topic-freshness">
+
+		
+		<a href="http://brittanynwashington.com/CASELAB/educators/forums/topic/activities/" title="Activities">2 weeks, 6 days ago</a>
+		
+		<p class="bbp-topic-meta">
+
+			
+			<span class="bbp-topic-freshness-author"><a href="http://brittanynwashington.com/CASELAB/educators/forums/user/admin/" title="View admin&#039;s profile" class="bbp-author-avatar" rel="nofollow"><img alt='' src='http://0.gravatar.com/avatar/4daf9b95b5f23d0aaa3315e0b06253dd?s=14&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D14&amp;r=G' class='avatar avatar-14 photo' height='14' width='14' /></a>&nbsp;<a href="http://brittanynwashington.com/CASELAB/educators/forums/user/admin/" title="View admin&#039;s profile" class="bbp-author-name" rel="nofollow">admin</a></span>
+
+			
+		</p>
+	</li>
+
+</ul><!-- #bbp-topic-26 -->
+
+		
+	</li>
+
+	<li class="bbp-footer">
+
+		<div class="tr">
+			<p>
+				<span class="td colspan4">&nbsp;</span>
+			</p>
+		</div><!-- .tr -->
+
+	</li>
+
+</ul><!-- #bbp-forum-16 -->
+
+
+			
+
+<div class="bbp-pagination">
+	<div class="bbp-pagination-count">
+
+		Viewing 2 topics - 1 through 2 (of 2 total)
+	</div>
+
+	<div class="bbp-pagination-links">
+
+		
+	</div>
+</div>
+
+
+			
+
+
+
+	<div id="no-topic-0" class="bbp-no-topic">
+		<div class="bbp-template-notice">
+			<p>You must be logged in to create new topics.</p>
+		</div>
+	</div>
+
+
+
+		
+	
+	
+</div>
+                        </section><!-- .entry-content -->
+
+                                            </article>
+                                
+                            
+                        
+                    
+<div id="comments" class="comments-area" >
+			</div><!-- #comments .comments-area -->
+                </div><!--.article-container -->
+
+           
+        </div><!--.row -->
+    </div><!-- .container role: main -->
+
+    
+</div><!--#main-wrapper"-->
+
+		<!-- FOOTER -->
+		<footer id="footer" class="">
+		 		    				 <div class="colophon">
+			 	<div class="container">
+			 		<div class="row-fluid">
+					    <div class="span4 social-block pull-left"><span class="tc-footer-social-links-wrapper" ><a class="social-icon icon-feed" href="http://brittanynwashington.com/CASELAB/educators/feed/rss/" title="Subscribe to my rss feed"  ></a></span></div><div class="span4 credits"><p>&middot; &copy; 2014 <a href="http://brittanynwashington.com/CASELAB/educators" title="Case Lab for Educators" rel="bookmark">Case Lab for Educators</a> &middot; Designed by <a href="http://themesandco.com/contact/">Themes &amp; Co</a> &middot;</p></div><div class="span4 backtop"><p class="pull-right"><a class="back-to-top" href="#">Back to top</a></p></div>	      			</div><!-- .row-fluid -->
+	      		</div><!-- .container -->
+	      	</div><!-- .colophon -->
+	    			</footer>
+		<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.4-5380'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-includes/js/comment-reply.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/js/modernizr.min.js?ver=3.2.8'></script>
+<script type='text/javascript' src='http://brittanynwashington.com/CASELAB/educators/wp-content/themes/customizr/inc/assets/js/holder.min.js?ver=3.2.8'></script>
+<div class="tc-btt-wrapper"><i class="btt-arrow" style="color:#08c"></i></div>	</body>
+	</html>
